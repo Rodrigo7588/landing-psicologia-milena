@@ -1,16 +1,18 @@
-# React + Vite
+# Landing Page - Meu Filho, Meu Mundo
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Uma landing page acolhedora e responsiva desenvolvida para a promoção do livro **"Meu Filho, Meu Mundo: Um abraço em palavras"**, escrito por **Milena Pontes Bustorff Quintão**.
 
-Currently, two official plugins are available:
+# Sobre o Projeto
+O site foi criado para apresentar a trajetória da Milena como estudante de psicologia e aplicadora ABA certificada, servindo como canal oficial para a aquisição do seu livro sobre maternidade e paternidade atípica.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Tecnologias e Ferramentas
+* **React (Vite):** Biblioteca principal para a interface.
+* **Tailwind CSS (v4):** Estilização moderna baseada na paleta de cores da capa do livro.
+* **Integração WhatsApp:** Conversão direta de vendas via API nativa do WhatsApp.
+* **Google Fonts:** Utilização da fonte Nunito para uma leitura leve e suave.
 
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+# Identidade Visual
+A paleta de cores utiliza tons pastéis:
+* **Creme (#fbf9f6):** Fundo principal para conforto visual.
+* **Terracota (#c88275):** Destaques e títulos.
+* **Azul Acinzentado (#7492a5):** Seções de contraste e botões.
